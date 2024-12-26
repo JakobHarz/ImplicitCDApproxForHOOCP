@@ -26,7 +26,7 @@
 
 # exported figures, data
 #################
-Code/_Export/
+_Export/
 *.npy
 
 
@@ -34,4 +34,3 @@ Code/_Export/
 #############
 *.tar
 *.vscode
-Paper/_Submission/
