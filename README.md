@@ -5,6 +5,8 @@ by Jakob Harzer, Jochem De Schutter, Per Rutquit, Moritz Diehl
 
 Link to full Paper: TODO
 
+![Satellite_OCP.png](_Export%2FErrorCD%2FSatellite_OCP.png)
+
 | Fig. | Description                                                                                                                                                                                                        | File |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | 7    | Damped Linear Oscillator - Order of the Average Dynamnics Approximation                                                                                                                                            | [LinearOscillator_ExactMacro.py](Experiments%2FImplictitCDPaper%2FLinearOscillator%2FLinearOscillator_ExactMacro.py) |
