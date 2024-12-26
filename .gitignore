@@ -1,0 +1,37 @@
+
+# Latex #
+############
+*.aux
+*.log
+*-eps-converted-to.pdf
+*.bbl
+*.blg
+*.synctex.*
+*.out
+*.run.xml
+*.nav
+*.snm
+*.toc
+*.fdb_latexmk
+*.fls
+
+# Operating systems # 
+############
+*~
+*.DS_Store
+
+# Pycharm
+*.idea*
+*.pyc
+
+# exported figures, data
+#################
+Code/_Export/
+*.npy
+
+
+# other stuff
+#############
+*.tar
+*.vscode
+Paper/_Submission/
